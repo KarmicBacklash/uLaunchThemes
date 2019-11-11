@@ -5,4 +5,4 @@ Current themes
 
 # KarmicDarkTheme
 
-![](previews/KarmicDarkTheme)
+![KarmicDarkTheme](https://i.imgur.com/ynN9KZI.jpg)
