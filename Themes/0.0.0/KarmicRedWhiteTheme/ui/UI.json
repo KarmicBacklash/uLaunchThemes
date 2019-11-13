@@ -1,7 +1,7 @@
 {
     "suspended_final_alpha": 80,
-    "menu_focus_color": "#ffc4cc",
-    "menu_bg_color": "#ff4d64",
+    "menu_focus_color": "#ff0000",
+    "menu_bg_color": "#ffffff",
     "menu_folder_text_x": 30,
     "menu_folder_text_y": 200,
     "menu_folder_text_size": 25

@@ -18,3 +18,7 @@ Current themes
 # KarmicMintyTheme
 
 ![KarmicMintyTheme](https://i.imgur.com/nvI9NeU.jpg)
+
+# KarmicRedWhiteTheme
+
+![KarmicRedWhiteTheme](https://i.imgur.com/5il5pkv.jpg)
