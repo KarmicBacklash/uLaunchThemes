@@ -10,3 +10,11 @@ Current themes
 # KarmicLightTheme
 
 ![KarmicLightTheme](https://i.imgur.com/wKmIIOr.jpg)
+
+# KarmicRedTheme
+
+![KarmicRedTheme](https://i.imgur.com/ig4JugL.jpg)
+
+# KarmicMintyTheme
+
+![KarmicMintyTheme](https://i.imgur.com/nvI9NeU.jpg)
